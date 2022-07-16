@@ -1,0 +1,52 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Compra lanche",
+    "line": 1,
+    "id": "compra-lanche",
+    "tags": [],
+    "uri": "Compra.parodifood.feature",
+    "elements": [
+      {
+        "id": "compra-lanche;compras-em-restaurantes",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "Compras em restaurantes",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "Estou no parodifood restaurante fazendo um pedido",
+            "result": {
+              "status": "passed",
+              "duration": 3131000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "Finalize o seu pedido",
+            "result": {
+              "status": "passed",
+              "duration": 2329000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "Pedido concluido",
+            "result": {
+              "status": "passed",
+              "duration": 400000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
