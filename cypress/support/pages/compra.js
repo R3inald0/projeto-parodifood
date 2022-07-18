@@ -9,6 +9,4 @@ export class CompraPage{
     }
 
 
-
-
 }// fechando classe
