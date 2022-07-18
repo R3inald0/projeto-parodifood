@@ -1,0 +1,52 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Parodifood fastfood",
+    "line": 1,
+    "id": "parodifood-fastfood",
+    "tags": [],
+    "uri": "parodifood.feature",
+    "elements": [
+      {
+        "id": "parodifood-fastfood;comprar-lanches-com-dinheiro",
+        "keyword": "Scenario",
+        "line": 19,
+        "name": "Comprar lanches com dinheiro",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "que estou na tela restaurante Parodifood",
+            "result": {
+              "status": "passed",
+              "duration": 847000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 7,
+            "name": "eu pesquisar pelo restaurante Pizza Bug",
+            "result": {
+              "status": "passed",
+              "duration": 1176000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 8,
+            "name": "adicionar uma \"Pizza de Mussarela\"",
+            "result": {
+              "status": "passed",
+              "duration": 693000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
