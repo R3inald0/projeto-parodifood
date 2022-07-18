@@ -8,15 +8,10 @@ export class ElementsCompra{
     linkAdicionar = () => { return ':nth-child(1) > .menu-item-info-box > .menu-item-info-box-content > .add-to-cart'}    
 }
 
+export class ElementsCarrinho{
 
+}
 
-
-
-// export class ElementsCarrinho{
+export class ElementsPagemento{
     
-// }
-
-
-// export class ElementsPagemento{
-    
-// }
+}

@@ -6,7 +6,7 @@ Feature: Parodifood fastfood
     Scenario Outline:Comprar lanches com dinheiro
         When eu pesquisar pelo restaurante <nomeRest>
         And adicionar uma "Pizza de Mussarela"
-        # And verificar se o pedido foi adicionado ao carrinho
+        And verificar se o pedido foi adicionado ao carrinho 
         # When eu fechar o pedido escolhido  
         # Then devo ser redirecionado para tela "Finalize o seu pedido"
         # When eu preencho o cadastro com os meus dados pessoais

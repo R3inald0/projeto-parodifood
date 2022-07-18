@@ -22,7 +22,7 @@
             "name": "que estou na tela restaurante Parodifood",
             "result": {
               "status": "passed",
-              "duration": 847000000
+              "duration": 1073000000
             }
           },
           {
@@ -32,7 +32,7 @@
             "name": "eu pesquisar pelo restaurante Pizza Bug",
             "result": {
               "status": "passed",
-              "duration": 1176000000
+              "duration": 1191000000
             }
           },
           {
@@ -42,7 +42,17 @@
             "name": "adicionar uma \"Pizza de Mussarela\"",
             "result": {
               "status": "passed",
-              "duration": 693000000
+              "duration": 372000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "verificar se o pedido foi adicionado ao carrinho",
+            "result": {
+              "status": "passed",
+              "duration": 16000000
             }
           }
         ]

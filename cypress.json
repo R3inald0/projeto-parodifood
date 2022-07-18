@@ -2,9 +2,7 @@
     "video": false,
     "viewportWidth": 1000,
     "viewportHeight": 660,
-    "defaultCommandTimeout": 30000,
-    "baseUrl": "http://parodifood.qaninja.academy/"
-
+    "defaultCommandTimeout": 30000
 }
 
 
